@@ -1,1 +1,2 @@
 this is my first text file
+testing the modification for the first time and then commit
